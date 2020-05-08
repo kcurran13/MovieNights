@@ -1,0 +1,3 @@
+# Project exclude paths
+/movie_nights/frontend/node_modules/
+/movie_nights/target/
